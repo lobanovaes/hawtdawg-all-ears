@@ -11,3 +11,10 @@ Showcase your best self—whether that means a fresh-from-the-groomer glamour sh
 Open the Hawt Dawg app and click on "Edit Profile." 
 Scroll down to the section called "Passions" and tell potential mates and friends all about the treats and toys that make your tail wag. 
 When you’re done, click “Save Changes” to show the world.
+
+## Фотография - это хорошо, но у меня плохое зрение. Могу ли я вместо этого понюхать других собак?
+Мы сожалеем, что в настоящее время не можем предложить нашим клиентам профили с запахом.
+
+Как только человеческие технологии догонят собачьи носы, мы обязательно добавим в приложение функцию запаха.
+
+А пока почему бы вам не встретиться в собачьем парке, чтобы понюхать своего нового друга?
